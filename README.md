@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KhayaBotha20
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning OOP and Java
+- 🌱 I’m currently a Computer Science Student
 - 📫 How to reach me: khaya2216botha@gmail.com
 
 <!---
